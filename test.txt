@@ -1,2 +1,3 @@
 hello Git!
 how are you?
+fine, and you?

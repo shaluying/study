@@ -4,4 +4,6 @@ fine, and you?
 fine too, thanks!
 Bye,Bye!
 bye
+<<<<<<< HEAD
 master操作
+test分支操作
